@@ -4,7 +4,7 @@
 
 그가 당신의 키보드를 지켜보고 있습니다. 항상 평온한 마음을 가지고 다니세요.
 
-chrome 확장입니다. chrome://extensions/에 접속하여 설치해 보세요.!
+chrome 확장입니다. chrome://extensions/에 접속하여 설치해 보세요.! (개발자 모드 활성화 -> 압축 해제된 확장 프로그램을 로드합니다 -> github에서 다운로드 받은 파일 넣기)
 
 ![image](https://github.com/user-attachments/assets/245e28b0-3301-47e2-8c2c-5c4ebf7515d0)
 
